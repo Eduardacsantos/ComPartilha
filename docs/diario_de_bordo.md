@@ -109,7 +109,76 @@ Registro das decisões, atividades, aprendizados e dificuldades durante o desenv
 - **Arquivos separados por página:** cada integrante ficou responsável pelos arquivos atribuídos, enquanto os elementos comuns foram organizados para reutilização.
 - **Doação sem backend:** a lista de itens utiliza o `sessionStorage` do navegador para demonstrar o funcionamento do fluxo.
 
-## 9. Modelo de registro individual
+## 9. Uso de Inteligência Artificial no desenvolvimento
+
+- Durante o desenvolvimento do site, utilizamos a inteligência artificial **Claude** como ferramenta de apoio na criação do código em **HTML, CSS e JavaScript**.
+- A ferramenta foi utilizada para auxiliar na construção da estrutura das páginas, na estilização dos elementos e na implementação de funcionalidades com JavaScript.
+- As solicitações feitas à IA consideraram as necessidades e as características definidas pelo grupo para o projeto.
+- O código gerado com o auxílio do Claude foi utilizado como apoio ao trabalho da equipe, que ficou responsável por revisar, adaptar e integrar os arquivos ao restante do site.
+
+## 10. Modelo de registro individual
+
+Cada integrante deve revisar e completar seu registro com base no que realmente fez durante o projeto.
+
+### Henrique
+- **Páginas atribuídas:** Início, Doar e receber e Reutilização.
+- **O que eu fiz:** desenvolvi e revisei as páginas que ficaram sob minha responsabilidade, verificando a organização do conteúdo e a navegação.
+- **Decisões que tomei e por quê:** procurei manter a estrutura e a identidade visual alinhadas às demais páginas do site.
+- **O que aprendi:** aprendi a organizar os arquivos de uma página e a importância de integrar o trabalho individual ao restante do projeto.
+- **Dificuldades e como resolvi:** revisei os elementos das minhas páginas e alinhei possíveis ajustes com o grupo.
+
+### Julia
+- **Páginas atribuídas:** Aprenda e Consumo.
+- **O que eu fiz:** desenvolvi e revisei as páginas da seção Aprenda e a página Consumo, cuidando da organização dos conteúdos e dos respectivos arquivos.
+- **Decisões que tomei e por quê:** busquei manter uma apresentação clara e consistente com a identidade visual do site.
+- **O que aprendi:** aprendi a estruturar conteúdos em páginas diferentes e a importância de manter padrões visuais.
+- **Dificuldades e como resolvi:** revisei a estrutura das páginas e conferi sua integração com o menu e os demais elementos compartilhados.
+
+### Beatriz
+- **Páginas atribuídas:** Alimentação e Casa.
+- **O que eu fiz:** fiquei responsável pela criação e revisão das páginas Alimentação e Casa, incluindo os arquivos correspondentes à página Casa.
+- **Decisões que tomei e por quê:** organizei os conteúdos para facilitar a leitura e procurei seguir o padrão visual definido pelo grupo.
+- **O que aprendi:** aprendi a desenvolver páginas seguindo uma estrutura comum e a importância de separar os arquivos de estilo e comportamento.
+- **Dificuldades e como resolvi:** conferi a apresentação das páginas e ajustei o que precisava para manter a consistência com o restante do site.
+
+### Leticia
+- **Páginas atribuídas:** Compras, Sobre nós, Projetos, Impacto e Acessibilidade.
+- **O que eu fiz:** fiquei responsável pela criação e revisão das páginas atribuídas, organizando seus conteúdos e verificando sua relação com a proposta do projeto.
+- **Decisões que tomei e por quê:** procurei deixar as informações organizadas e apresentar os conteúdos de forma clara para os visitantes.
+- **O que aprendi:** aprendi a importância de apresentar informações de maneira acessível e de manter a padronização entre diferentes páginas.
+- **Dificuldades e como resolvi:** revisei os conteúdos e a estrutura das páginas, observando se estavam de acordo com o padrão definido pela equipe.
+
+### Vitoria
+- **Páginas atribuídas:** Economia e Hábitos.
+- **O que eu fiz:** desenvolvi e revisei as páginas Economia e Hábitos, cuidando da organização dos conteúdos e dos arquivos correspondentes.
+- **Decisões que tomei e por quê:** busquei manter a leitura simples e a aparência alinhada às outras páginas.
+- **O que aprendi:** aprendi a organizar informações em páginas web e a importância da revisão antes da integração.
+- **Dificuldades e como resolvi:** conferi a estrutura e a navegação das páginas e alinhei os ajustes necessários com o grupo.
+
+### Eduarda
+- **Páginas atribuídas:** Galeria, Mídia, Notícias, Contato e Orçamento.
+- **O que eu fiz:** fiquei responsável pelas páginas e pelos arquivos relacionados à galeria, mídia, notícias, contato e orçamento.
+- **Decisões que tomei e por quê:** procurei organizar os materiais e as informações para facilitar o acesso dos visitantes.
+- **O que aprendi:** aprendi a importância de organizar arquivos de mídia e de revisar formulários e informações de contato.
+- **Dificuldades e como resolvi:** revisei os elementos das páginas e conferi sua integração com o restante do site.
+
+## 11. Cronograma e divisão de tarefas
+
+| Etapa | Prazo | Responsável |
+|---|---|---|
+| Definir tema, escopo e identidade visual | 21/09/2026 | Todos |
+| Páginas-base, doação e temas do Aprenda | 28/09/2026 | Conforme a divisão de funções |
+| Páginas exigidas (Projetos, Impacto, Acessibilidade, Galeria, Mídia, Notícias, Contato e Orçamento) | 15/10/2026 | Conforme a divisão de funções |
+| Validação W3C e testes de acessibilidade | 25/10/2026 | Todos |
+| Documentação em `/docs` e compactação do `.zip` | 03/11/2026 | Conforme a divisão de funções |
+| Entrega no Blackboard | 09/11/2026 | Todos |
+
+## 12. Considerações finais
+
+Durante o desenvolvimento, o grupo dividiu as páginas entre os integrantes para conseguir trabalhar em diferentes partes do site ao mesmo tempo. Ao longo do processo, foi necessário manter a comunicação para integrar as páginas, padronizar o menu e o rodapé e revisar a acessibilidade.
+
+A equipe também utilizou o Claude como apoio na criação do HTML, CSS e JavaScript, revisando e adaptando o código ao longo do desenvolvimento. A revisão mostrou a importância de testar o site, corrigir detalhes de formulários e conferir a organização dos títulos e dos arquivos. Com a documentação e os ajustes finais, o grupo organizou o projeto para a entrega prevista no Blackboard em **09/11/2026**.
+
 
 Cada integrante deve revisar e completar seu registro com base no que realmente fez durante o projeto.
 
