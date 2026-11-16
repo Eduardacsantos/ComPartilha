@@ -233,10 +233,10 @@ Cada integrante deve revisar e completar seu registro com base no que realmente 
 | Páginas exigidas (Projetos, Impacto, Acessibilidade, Galeria, Mídia, Notícias, Contato e Orçamento) | 15/10/2026 | Conforme a divisão de funções |
 | Validação W3C e testes de acessibilidade | 25/10/2026 | Todos |
 | Documentação em `/docs` e compactação do `.zip` | 03/11/2026 | Conforme a divisão de funções |
-| Entrega no Blackboard | 09/11/2026 | Todos |
+| Entrega no Blackboard | 16/11/2026 | Todos |
 
 ## 11. Considerações finais
 
 Durante o desenvolvimento, o grupo dividiu as páginas entre os integrantes para conseguir trabalhar em diferentes partes do site ao mesmo tempo. Ao longo do processo, foi necessário manter a comunicação para integrar as páginas, padronizar o menu e o rodapé e revisar a acessibilidade.
 
-A revisão também mostrou a importância de testar o site, corrigir detalhes de formulários e conferir a organização dos títulos e dos arquivos. Com a documentação e os ajustes finais, o grupo organizou o projeto para a entrega prevista no Blackboard em **09/11/2026**.
+A revisão também mostrou a importância de testar o site, corrigir detalhes de formulários e conferir a organização dos títulos e dos arquivos. Com a documentação e os ajustes finais, o grupo organizou o projeto para a entrega prevista no Blackboard em **16/11/2026**.
